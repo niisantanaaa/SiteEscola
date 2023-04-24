@@ -2,3 +2,9 @@ body {
     background-color: #383d58;
     color: white
 }
+.cantora{
+   width: 200px;
+   position: relativo;
+   top: 50px;
+   left: 150px;
+}
