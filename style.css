@@ -1,3 +1,7 @@
+body {
+    font-family: 'Poppins',sans-serif;
+}
+
 .cabecalho{
     background-color: #383D58;
     color:white;
@@ -15,5 +19,22 @@
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
-
+}
+.pessoa-musica{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#383D58,#239fa1);
+    color:white;
+    display:flex;
+}
+.escola-conteudo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-titulo{
+   padding: 24px 0;
 }
