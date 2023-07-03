@@ -1,5 +1,5 @@
-body {
-    font-family: 'Poppins',sans-serif;
+body{
+    font-family: 'poppins', sans-serif;
 }
 
 .cabecalho{
@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: space-around;
 }
-.logo{
+.taylor-swift{
     width: 200px;
     position: relative;
     top: 50px;
@@ -30,11 +30,14 @@ body {
 }
 .escola-conteudo{
     width: 35%;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 .escola-titulo{
-   padding: 24px 0;
+ padding: 24px 0;
 }
+.estudante-imagem{
+    width: 120px;
+  }
