@@ -3,16 +3,16 @@ body{
 }
 
 .cabecalho{
-    background-color: #383D58;
-    color:white;
+    background-color: #b80ae4;
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
 }
-.taylor-swift{
-    width: 200px;
-    position: relative;
-    top: 50px;
-    left: 150px;
+.nikola{
+    width: 500px;
+    position: flex;
+    top: 0px;
+    left: 20px;
 }
 .cabecalho-lista-item{
     display: inline-block;
@@ -24,7 +24,7 @@ body{
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(#383D58,#239fa1);
+    background-image: linear-gradient(#b80ae4,#a12362);
     color:white;
     display:flex;
 }
@@ -42,7 +42,7 @@ body{
     width: 120px;
 }
 .estudante-icone{
-    width:90px
+    width: 25px;
 }
 .estudante-div{
     text-align: center;
@@ -50,7 +50,7 @@ body{
 }
 .estudante-todos{
     display: grid;
-    grid-template-columns:20% 20% 20% 20%
+    grid-template-columns:20% 20% 20% 20%;
 }
 .estudante-titulo{
     text-align: center;
